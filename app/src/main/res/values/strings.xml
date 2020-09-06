@@ -1,0 +1,8 @@
+<resources>
+    <string name="distance">Enter distance (meter)</string>
+    <string name="time">Enter time(second)</string>
+    <string name="CLEAR">CLEAR</string>
+    <string name="CALCULATE">CALCULATE</string>
+    <string name="Average_Speed">Average Speed (km/h)</string>
+    <string name="app_name">SPEED CALCULATOR2</string>
+</resources>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#EDEBEB"
+    android:padding="8dp"
+    android:id="@+id/toast_root1">
+
+    <TextView
+        android:id="@+id/toast_text1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="#8D515151"
+        android:text="Time must be greater than zero."
+        android:textColor="@android:color/white"
+        android:textSize="16sp"
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteX="8dp"
+        tools:layout_editor_absoluteY="8dp" />
+</androidx.constraintlayout.widget.ConstraintLayout>
